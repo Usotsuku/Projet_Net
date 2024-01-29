@@ -1,0 +1,73 @@
+﻿@model ProductDisplayModel
+@{
+    ViewData["Title"] = "ElectroShope";
+}
+<div class="my-4">
+    <form asp-action="Index" class="row row-cols-lg-auto g-3 align-items-center">
+        <div class="col-12">
+            <label class="visually-hidden" for="categoryId">Category</label>
+            <select class="form-select" id="categoryId" name="categoryId">
+                <option selected>Category</option>
+                @foreach (var category in Model.Categories)
+                {
+                    <option selected="@(category.Id == Model.CategoryId)" value="@category.Id">@category.Name</option>
+                }
+            </select>
+        </div>
+        <div class="col-12">
+            <label class="visually-hidden" for="sterm">Product name</label>
+            <div class="input-group">
+                <div class="input-group-text"></div>
+                <input type="text" class="form-control" value="@Model.Sterm" id="sterm" name="sterm" placeholder="Search by name">
+            </div>
+        </div>
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Search</button>
+            <a href="/Home/Index" class="btn btn-dark">Reset</a>
+        </div>
+    </form>
+</div>
+<div class="w-100 m-4 d-flex flex-wrap">
+    @foreach (var product in Model.Products)
+    {
+        <div class="card mx-4 mb-4" style="width: 15rem; height=">
+            @if (!string.IsNullOrEmpty(product.ImageUrl))
+            {
+                <img style="width:100%;height:180px" src="@product.ImageUrl" class="card-img-top" alt="Product Image" />
+            }
+            <div class="card-body">
+                <h5 class="card-title">@Html.DisplayFor(modelItem => product.Name)</h5>
+                <br />
+                <p><b>@Html.DisplayFor(modelItem => product.Price)</b></p>
+                <button type="button" onclick="add(@product.Id)" class="btn btn-primary">Add to cart</button>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts{
+    <script>
+        async function add(productId) {
+            var usernameEl = document.getElementById("username");
+            if (usernameEl == null) {
+                window.location.href = "/Identity/Account/Login";
+                //var username=usernameEl.innerText;
+                //  if(username.length<1){
+                //      window.location.href="/Identity/Account/Login";
+                //  }
+            }
+            try {
+                var response = await fetch(`/Cart/AddItem?productId=${productId}`);
+                if (response.status == 200) {
+                    var result = await response.json();
+                    var cartCountEl = document.getElementById("cartCount");
+                    cartCountEl.innerHTML = result;
+                    window.location.href = "#cartCount";
+                }
+            }
+            catch (err) {
+                console.log(err);
+            }
+        }
+    </script>
+}

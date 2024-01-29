@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ElectroShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ElectroShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\AsusZenbook.jpg",
+      "PackagePath": "staticwebassets\\images\\AsusZenbook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\Hisense50inch.jpg",
+      "PackagePath": "staticwebassets\\images\\Hisense50inch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\LGC3.jpg",
+      "PackagePath": "staticwebassets\\images\\LGC3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\Lenovo.jpg",
+      "PackagePath": "staticwebassets\\images\\Lenovo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\ROGSTRIX.jpg",
+      "PackagePath": "staticwebassets\\images\\ROGSTRIX.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\SamsungTV32.jpg",
+      "PackagePath": "staticwebassets\\images\\SamsungTV32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\TCL40inch.jpg",
+      "PackagePath": "staticwebassets\\images\\TCL40inch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\acer.jpg",
+      "PackagePath": "staticwebassets\\images\\acer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\apple-iphone-12-pro--.jpg",
+      "PackagePath": "staticwebassets\\images\\apple-iphone-12-pro--.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\apple-iphone-12-pro-max-.jpg",
+      "PackagePath": "staticwebassets\\images\\apple-iphone-12-pro-max-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\apple-iphone-13-pro-max.jpg",
+      "PackagePath": "staticwebassets\\images\\apple-iphone-13-pro-max.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\apple-iphone-13-pro.jpg",
+      "PackagePath": "staticwebassets\\images\\apple-iphone-13-pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\apple-iphone-14-plus.jpg",
+      "PackagePath": "staticwebassets\\images\\apple-iphone-14-plus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\apple-iphone-14-pro-max-.jpg",
+      "PackagePath": "staticwebassets\\images\\apple-iphone-14-pro-max-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\apple-iphone-14-pro.jpg",
+      "PackagePath": "staticwebassets\\images\\apple-iphone-14-pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\apple-iphone-x.jpg",
+      "PackagePath": "staticwebassets\\images\\apple-iphone-x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\asus-rog-phone-6-diablo-immortal-edition.jpg",
+      "PackagePath": "staticwebassets\\images\\asus-rog-phone-6-diablo-immortal-edition.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\asus-rog-phone-8-pro.jpg",
+      "PackagePath": "staticwebassets\\images\\asus-rog-phone-8-pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\asus-rog-phone6-pro.jpg",
+      "PackagePath": "staticwebassets\\images\\asus-rog-phone6-pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\msi.png",
+      "PackagePath": "staticwebassets\\images\\msi.png"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\msiblack.jpg",
+      "PackagePath": "staticwebassets\\images\\msiblack.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\samsung-galaxy-s22-5g.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-galaxy-s22-5g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\samsung-galaxy-s22-ultra-5g.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-galaxy-s22-ultra-5g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\samsung-galaxy-s23-fe.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-galaxy-s23-fe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\samsung-galaxy-s23-plus-5g.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-galaxy-s23-plus-5g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\samsung-galaxy-s23-ultra-5g.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-galaxy-s23-ultra-5g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\samsung-galaxy-s24-ultra-5g-sm-s928-stylus.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-galaxy-s24-ultra-5g-sm-s928-stylus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\samsung65inch.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung65inch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\vizio24.jpg",
+      "PackagePath": "staticwebassets\\images\\vizio24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\vizio40inch.jpg",
+      "PackagePath": "staticwebassets\\images\\vizio40inch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\images\\westinghouse.jpg",
+      "PackagePath": "staticwebassets\\images\\westinghouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usosuke\\source\\repos\\ElectroShop\\ElectroShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ElectroShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ElectroShop.props",
+      "PackagePath": "build\\ElectroShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ElectroShop.props",
+      "PackagePath": "buildMultiTargeting\\ElectroShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ElectroShop.props",
+      "PackagePath": "buildTransitive\\ElectroShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
